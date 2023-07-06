@@ -1,5 +1,5 @@
 # require "jquery-rails"
-require "kaminari"
+# require "kaminari"
 # require "sassc-rails"
 # require "selectize-rails"
 # require "sprockets/railtie"
